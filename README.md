@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gauravpalariya
-- 👀 I’m interested in Graphic Programming and solving algorithmic puzzles
-- 🌱 I’m currently learning C++ and Data Structures
-- 💞️ I am a looking for a linux system administrator position.
+- 👀 I’m into low level programming and computer Architecture
+- 🌱 I’m diving deep into computer hardware and machine internals
+- 💞️ My favourite tools are C, Vim, Gdb and Git.
 - 📫 How to reach me ..
 - email: gauravpalariyaprofessional@gmail.com
 
